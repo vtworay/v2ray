@@ -10,7 +10,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://v.vtwo.me/Ping0.7.ipa</string>
+                        <string>https://v.vtwo.me/Ping0.7.ipa</string>
                     </dict>
                 </array>
                 <key>metadata</key>
